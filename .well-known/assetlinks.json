@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.anfisa.app",
+      "sha256_cert_fingerprints": [
+        "13:D4:73:BB:3F:D2:F3:40:D4:5E:23:59:78:02:0F:CD:C2:94:CB:0C:B0:B8:20:14:25:94:5F:F8:B0:C4:BE:41"
+      ]
+    }
+  }
+]
